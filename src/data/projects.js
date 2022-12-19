@@ -59,6 +59,27 @@ const projects = [
 	},
 	{
 		id: 9,
+		title: 'Evolve FTSO',
+		category: 'FTSO',
+		img: require('@/assets/images/projects/evolve.jpg'),
+		url: 'https://www.evolveftso.com/'
+	},
+	{
+		id: 10,
+		title: 'FLR Finance',
+		category: 'DeFi',
+		img: require('@/assets/images/projects/flr-finance.jpg'),
+		url: 'https://flr.finance/'
+	},
+	{
+		id: 11,
+		title: 'Flare Metrics',
+		category: 'Info',
+		img: require('@/assets/images/projects/flaremetrics.jpg'),
+		url: 'https://flaremetrics.io/'
+	},
+	{
+		id: 12,
 		title: 'Spark Coin',
 		category: 'Utility',
 		img: require('@/assets/images/projects/sparkcoin.jpg'),

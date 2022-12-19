@@ -13,8 +13,6 @@ export default {
 
 <template>
 	<div class="container mx-auto">
-		
-
 		<!-- Projects -->
 		<ProjectsGrid :isHome="true" />
 
