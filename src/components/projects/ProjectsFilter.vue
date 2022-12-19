@@ -12,6 +12,7 @@ export default {
 				'Utility',
 				'NFT',
 				'DeFi',
+				'Info',
 				'FTSO',
 				'Wallet',
 				'NFT Marketplace',

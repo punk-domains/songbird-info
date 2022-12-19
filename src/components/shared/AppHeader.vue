@@ -30,9 +30,24 @@ export default {
 					name: 'DeFi',
 				},
 				{
+					id: 3,
+					value: 'info',
+					name: 'Info',
+				},
+				{
 					id: 4,
 					value: 'ftso',
 					name: 'FTSO',
+				},
+				{
+					id: 5,
+					value: 'wallet',
+					name: 'Wallet',
+				},
+				{
+					id: 6,
+					value: 'nft-marketplace',
+					name: 'NFT Marketplace',
 				},
 			],
 		};

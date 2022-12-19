@@ -10,7 +10,7 @@ export default {
 	data: () => {
 		return {
 			projects,
-			projectsNumOnHome: 6, // select how many projects are shown on the Home page
+			projectsNumOnHome: 9, // select how many projects are shown on the Home page
 			projectsHeading: 'Projects on Songbird',
 			selectedCategory: '',
 			searchProject: '',
