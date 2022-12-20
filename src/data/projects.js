@@ -115,38 +115,59 @@ const projects = [
 	},
 	{
 		id: 17,
+		title: 'MyCryptoPlayground',
+		category: 'Info',
+		img: require('@/assets/images/projects/mcp.jpg'),
+		url: 'https://www.youtube.com/@mycryptoplayground/videos?ref=songbird.info'
+	},
+	{
+		id: 18,
 		title: 'sTOADZ',
 		category: 'NFT & FTSO',
 		img: require('@/assets/images/projects/stoadz.jpeg'),
 		url: 'https://xtoadz.xyz/?ref=songbird.info'
 	},
 	{
-		id: 18,
+		id: 19,
 		title: 'The Cooties',
 		category: 'NFT',
 		img: require('@/assets/images/projects/cooties.jpg'),
 		url: 'https://cootie.finance/?ref=songbird.info'
 	},
 	{
-		id: 19,
+		id: 20,
 		title: 'DeFiOracles',
 		category: 'FTSO',
 		img: require('@/assets/images/projects/defioracles.jpg'),
 		url: 'https://defioracles.org/?ref=songbird.info'
 	},
 	{
-		id: 20,
+		id: 21,
 		title: 'The Grungies',
 		category: 'NFT',
 		img: require('@/assets/images/projects/grungies.png'),
 		url: 'https://sparklesnft.com/collection/thegrungies/?ref=songbird.info'
 	},
 	{
-		id: 21,
+		id: 22,
 		title: 'AlphaOracle',
 		category: 'FTSO',
 		img: require('@/assets/images/projects/alpha.png'),
 		url: 'https://www.alphaoracle.io/?ref=songbird.info'
+	},
+	{
+		id: 23,
+		title: 'Use Your Spark',
+		category: 'FTSO',
+		img: require('@/assets/images/projects/useyourspark.jpg'),
+		url: 'https://www.useyourspark.com/?ref=songbird.info'
+	},
+	{
+		id: 24,
+		title: 'SolidiFi',
+		category: 'Wallet & FTSO',
+		img: require('@/assets/images/projects/solidifi.jpg'),
+		url: 'https://solidifi.app/?ref=songbird.info'
 	},
 ];
 
