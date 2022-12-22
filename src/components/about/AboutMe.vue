@@ -33,14 +33,15 @@ export default {
 		<!-- About details -->
 		<div class="w-full sm:w-3/4 text-left">
 			<p class="font-general-regular mb-4 text-ternary-dark dark:text-ternary-light text-lg">
-				Songbird is a canary network for the Flare blockchain. A canary network is a blockchain which first gets the new features 
-				meant for the main chain (in this case Flare), so that they are tried out before being implemented on Flare.
+				Songbird is a canary network for the Flare blockchain. It is called a canary network because it is the first to receive 
+				new features that are intended for the main Flare chain. This allows the features to be tested before they are implemented 
+				on Flare.
 			</p>
 
 			<p class="font-general-regular mb-4 text-ternary-dark dark:text-ternary-light text-lg">
-				Note that Songbird is not a testnet. The difference between a testnet and a canary network is that assets on a canary network 
-				(in the case of Songbird the SGB token) do hold a value and can be traded on exchanges. Tesnet assets, on the other hand, hold 
-				no value. The testnet for both Songbird and Flare is a blockchain called Coston.
+				It's important to note that Songbird is not a testnet. Assets on a canary network, like the SGB token on Songbird, 
+				have value and can be traded on exchanges. Assets on a testnet, however, have no value. The testnet for 
+				both Songbird and Flare is called <a href="https://coston-explorer.flare.network/" target="_blank">Coston</a>.
 			</p>
 
 			<p class="font-general-regular mb-4 text-ternary-dark dark:text-ternary-light text-lg">
