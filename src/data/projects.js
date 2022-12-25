@@ -169,6 +169,13 @@ const projects = [
 		img: require('@/assets/images/projects/solidifi.jpg'),
 		url: 'https://solidifi.app/?ref=songbird.info'
 	},
+	{
+		id: 25,
+		title: 'FTSO AU',
+		category: 'FTSO',
+		img: require('@/assets/images/projects/ftsoau.png'),
+		url: 'https://ftso.au/?ref=songbird.info'
+	},
 ];
 
 export default projects;
