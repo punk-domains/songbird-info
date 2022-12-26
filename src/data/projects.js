@@ -176,6 +176,20 @@ const projects = [
 		img: require('@/assets/images/projects/ftsoau.png'),
 		url: 'https://ftso.au/?ref=songbird.info'
 	},
+	{
+		id: 26,
+		title: 'Jeen Lolkema Analytics',
+		category: 'Info',
+		img: require('@/assets/images/projects/jeen.jpg'),
+		url: 'https://sgb.jeenlolkema.nl/?ref=songbird.info'
+	},
+	{
+		id: 27,
+		title: 'FLRDrops',
+		category: 'NFT Marketplace',
+		img: require('@/assets/images/projects/flr-drops.jpg'),
+		url: 'https://xfd.flr.finance/?ref=songbird.info'
+	},
 ];
 
 export default projects;
