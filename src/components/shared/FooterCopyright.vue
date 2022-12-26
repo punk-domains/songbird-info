@@ -15,6 +15,18 @@ export default {
 		<div
 			class="font-general-regular text-lg text-ternary-dark dark:text-ternary-light"
 		>
+			Don't see a project listed? 
+			<a
+				href="https://github.com/punk-domains/songbird-info/issues"
+				target="__blank"
+				class="underline hover:text-indigo-600 dark:hover:text-indigo-300 duration-500"
+			>
+				Open a new issue here
+			</a>.
+			
+			<br />
+			<br />
+
 			&copy; {{ copyrightDate }} by 
 			<a
 				href="https://songbird.domains"
