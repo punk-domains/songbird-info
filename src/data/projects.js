@@ -190,6 +190,13 @@ const projects = [
 		img: require('@/assets/images/projects/flr-drops.jpg'),
 		url: 'https://xfd.flr.finance/?ref=songbird.info'
 	},
+	{
+		id: 28,
+		title: 'Send2.name',
+		category: 'Wallet',
+		img: require('@/assets/images/projects/send2name.png'),
+		url: 'https://send2.name/?ref=songbird.info'
+	},
 ];
 
 export default projects;
