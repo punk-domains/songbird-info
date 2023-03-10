@@ -1,2 +1,0 @@
-"use strict";(self["webpackChunksongbird_info"]=self["webpackChunksongbird_info"]||[]).push([[176],{3773:function(n,r,o){o.r(r),o.d(r,{default:function(){return d}});var t=o(6252);const e={class:"container mx-auto"};function s(n,r,o,s,c,i){const u=(0,t.up)("ProjectsGrid");return(0,t.wg)(),(0,t.iD)("div",e,[(0,t.Wm)(u)])}var c=o(6875),i={name:"Projects",components:{ProjectsGrid:c.Z}},u=o(3744);const a=(0,u.Z)(i,[["render",s]]);var d=a}}]);
-//# sourceMappingURL=projects.54aeaedb.js.map

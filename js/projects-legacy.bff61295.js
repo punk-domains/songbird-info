@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunksongbird_info"]=self["webpackChunksongbird_info"]||[]).push([[176],{3773:function(n,r,e){e.r(r),e.d(r,{default:function(){return d}});var o=e(6252),t={class:"container mx-auto"};function s(n,r,e,s,c,i){var u=(0,o.up)("ProjectsGrid");return(0,o.wg)(),(0,o.iD)("div",t,[(0,o.Wm)(u)])}var c=e(549),i={name:"Projects",components:{ProjectsGrid:c.Z}},u=e(3744);const a=(0,u.Z)(i,[["render",s]]);var d=a}}]);
+//# sourceMappingURL=projects-legacy.bff61295.js.map
