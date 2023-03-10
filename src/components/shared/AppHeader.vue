@@ -49,6 +49,11 @@ export default {
 					value: 'nft-marketplace',
 					name: 'NFT Marketplace',
 				},
+				{
+					id: 7,
+					value: 'web3-social',
+					name: 'Web3 Social',
+				},
 			],
 		};
 	},

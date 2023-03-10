@@ -16,6 +16,7 @@ export default {
 				'FTSO',
 				'Wallet',
 				'NFT Marketplace',
+				'Web3 Social',
 			],
 		},
 	},
