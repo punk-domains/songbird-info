@@ -2,11 +2,18 @@
 
 const projects = [
 	{
-		id: 1,
+		id: 0,
 		title: 'Songbird Domains',
 		category: 'Utility',
 		img: require('@/assets/images/projects/songbird-domains.jpg'),
 		url: 'https://songbird.domains/?ref=songbird.info'
+	},
+	{
+		id: 1,
+		title: 'SGB Chat',
+		category: 'Web3 Social',
+		img: require('@/assets/images/projects/sgb-chat.png'),
+		url: 'https://sgb.chat/?from=songbird.info'
 	},
 	{
 		id: 2,
