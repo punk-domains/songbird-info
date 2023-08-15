@@ -204,6 +204,20 @@ const projects = [
 		img: require('@/assets/images/projects/send2name.png'),
 		url: 'https://send2.name/?ref=songbird.info'
 	},
+	{
+		id: 29,
+		title: 'Astral Credits',
+		category: 'Community',
+		img: require('@/assets/images/projects/astralcredits.png'),
+		url: 'https://www.astralcredits.xyz/?ref=songbird.info'
+	},
+	{
+		id: 30,
+		title: 'Pixel Planet',
+		category: 'Web3 Project',
+		img: require('@/assets/images/projects/pixelplanet.gif'),
+		url: 'https://www.astralcredits.xyz/pixels/?ref=songbird.info'
+	},
 ];
 
 export default projects;
